@@ -11,3 +11,4 @@ Nội dung
 -------------
 
  - Lesson 3 - In Menu - [source](https://github.com/hoangnghiem205/java-programing/tree/master/src/com/java/lesson3)
+ - Lab 3 - Chữa bài tập trên lớp - [source](https://github.com/hoangnghiem205/java-programing/tree/master/src/com/java/lab3)

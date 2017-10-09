@@ -20,4 +20,4 @@ Nội dung
  - Lab 3 - Chữa bài tập trên lớp - [source](https://github.com/hoangnghiem205/java-programing/tree/master/src/com/java/lab3)
  - Lab 4 - Chữa bài tập trên lớp - [Đề bài](https://drive.google.com/file/d/0B1gHyfKXipeTWGNYbkNlbmFQVlk/view?usp=sharing) [source](https://github.com/hoangnghiem205/java-programing/tree/master/src/com/java/lab4)
 - Lab 6 - [Đề bài](https://github.com/hoangnghiem205/java-programing/tree/master/labs/LAB6.pdf)  [source](https://github.com/hoangnghiem205/java-programing/tree/master/src/com/java/lab6)
-- Lab 7 - [Đề bài](https://github.com/hoangnghiem205/java-programing/tree/master/labs/LAB7.pdf)
+- Lab 7 - [Đề bài](https://github.com/hoangnghiem205/java-programing/tree/master/labs/LAB7.pdf)   [source](https://github.com/hoangnghiem205/java-programing/tree/master/src/com/java/lab7)
